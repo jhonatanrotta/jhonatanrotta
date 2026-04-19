@@ -2,7 +2,7 @@
 
 ### Hello world, I'm Jhonatan👋
 
-## Especialista em Business Intelligence,  <br> Administrador e Instrutor Análise de Dados
+
 
 Sobre mim:
 
